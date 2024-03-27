@@ -45,6 +45,10 @@ body{
     cursor: pointer;
 }
 
+.main a:hover{
+    color: brown;
+}
+
 .main .search-container{
     display: flex;
     justify-content: center;
@@ -84,4 +88,5 @@ body{
 .search-input{
     border: none;
     outline: none;
+    margin-left: 20px;
 }
