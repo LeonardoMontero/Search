@@ -41,6 +41,10 @@ body{
     border-radius: 40px;
 }
 
+.main a{
+    cursor: pointer;
+}
+
 .main .search-container{
     display: flex;
     justify-content: center;
